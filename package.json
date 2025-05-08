@@ -1,5 +1,5 @@
 {
-  "name": "@kaizenmedia/ui",
+  "name": "test-ui-belajar",
   "version": "0.0.1",
   "description": "A nuxt 3 UI library, by Kaizen",
   "main": "nuxt.js",
