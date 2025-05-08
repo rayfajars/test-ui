@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaizenry/kaizen-ui.git"
+    "url": "git+https://github.com/rayfajars/test-ui.git"
   },
   "keywords": [
     "Nuxt3",
@@ -20,7 +20,7 @@
   "author": "Kaizen Media",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaizenry/kaizen-ui/issues"
+    "url": "https://github.com/rayfajars/test-ui/issues"
   },
-  "homepage": "https://github.com/kaizenry/kaizen-ui#readme"
+  "homepage": "https://github.com/rayfajars/test-ui#readme"
 }
